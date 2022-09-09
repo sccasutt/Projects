@@ -1,0 +1,937 @@
+"Unfallschwere";"Kanton";"Strassenart";"Unfallort";"2020";"2021"
+"Unfall mit Getöteten";"Zürich";"Autobahn";"Ausserorts";3;1
+"Unfall mit Getöteten";"Zürich";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Zürich";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zürich";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Zürich";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Zürich";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Zürich";"Hauptstrasse";"Ausserorts";3;5
+"Unfall mit Getöteten";"Zürich";"Hauptstrasse";"Innerorts";4;4
+"Unfall mit Getöteten";"Zürich";"Nebenstrasse";"Ausserorts";7;3
+"Unfall mit Getöteten";"Zürich";"Nebenstrasse";"Innerorts";11;7
+"Unfall mit Getöteten";"Zürich";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zürich";"Andere";"Innerorts";1;0
+"Unfall mit Getöteten";"Bern / Berne";"Autobahn";"Ausserorts";2;0
+"Unfall mit Getöteten";"Bern / Berne";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Bern / Berne";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Bern / Berne";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Bern / Berne";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Bern / Berne";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Bern / Berne";"Hauptstrasse";"Ausserorts";7;5
+"Unfall mit Getöteten";"Bern / Berne";"Hauptstrasse";"Innerorts";7;2
+"Unfall mit Getöteten";"Bern / Berne";"Nebenstrasse";"Ausserorts";2;4
+"Unfall mit Getöteten";"Bern / Berne";"Nebenstrasse";"Innerorts";2;5
+"Unfall mit Getöteten";"Bern / Berne";"Andere";"Ausserorts";2;0
+"Unfall mit Getöteten";"Bern / Berne";"Andere";"Innerorts";1;0
+"Unfall mit Getöteten";"Luzern";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Luzern";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Luzern";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Luzern";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Luzern";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Luzern";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Luzern";"Hauptstrasse";"Ausserorts";0;3
+"Unfall mit Getöteten";"Luzern";"Hauptstrasse";"Innerorts";6;2
+"Unfall mit Getöteten";"Luzern";"Nebenstrasse";"Ausserorts";3;2
+"Unfall mit Getöteten";"Luzern";"Nebenstrasse";"Innerorts";4;2
+"Unfall mit Getöteten";"Luzern";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Luzern";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Uri";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Uri";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Uri";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Hauptstrasse";"Ausserorts";3;1
+"Unfall mit Getöteten";"Uri";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Uri";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Uri";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Uri";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Hauptstrasse";"Ausserorts";3;1
+"Unfall mit Getöteten";"Schwyz";"Hauptstrasse";"Innerorts";3;2
+"Unfall mit Getöteten";"Schwyz";"Nebenstrasse";"Ausserorts";2;1
+"Unfall mit Getöteten";"Schwyz";"Nebenstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Schwyz";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schwyz";"Andere";"Innerorts";1;0
+"Unfall mit Getöteten";"Obwalden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Obwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Hauptstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Obwalden";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Obwalden";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Hauptstrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Nidwalden";"Hauptstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Nidwalden";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Nidwalden";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Glarus";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Glarus";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Zug";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zug";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Zug";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zug";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Zug";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zug";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Zug";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zug";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Zug";"Nebenstrasse";"Ausserorts";1;2
+"Unfall mit Getöteten";"Zug";"Nebenstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Zug";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Zug";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autobahn";"Ausserorts";0;1
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Hauptstrasse";"Ausserorts";3;4
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Hauptstrasse";"Innerorts";2;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Nebenstrasse";"Ausserorts";2;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Nebenstrasse";"Innerorts";2;1
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Fribourg / Freiburg";"Andere";"Innerorts";1;0
+"Unfall mit Getöteten";"Solothurn";"Autobahn";"Ausserorts";1;1
+"Unfall mit Getöteten";"Solothurn";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Hauptstrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Solothurn";"Hauptstrasse";"Innerorts";2;3
+"Unfall mit Getöteten";"Solothurn";"Nebenstrasse";"Ausserorts";0;2
+"Unfall mit Getöteten";"Solothurn";"Nebenstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Solothurn";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Solothurn";"Andere";"Innerorts";1;1
+"Unfall mit Getöteten";"Basel-Stadt";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Hauptstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Basel-Stadt";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Nebenstrasse";"Innerorts";2;3
+"Unfall mit Getöteten";"Basel-Stadt";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Stadt";"Andere";"Innerorts";1;1
+"Unfall mit Getöteten";"Basel-Landschaft";"Autobahn";"Ausserorts";0;2
+"Unfall mit Getöteten";"Basel-Landschaft";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Hauptstrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Hauptstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Basel-Landschaft";"Nebenstrasse";"Ausserorts";3;1
+"Unfall mit Getöteten";"Basel-Landschaft";"Nebenstrasse";"Innerorts";4;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Basel-Landschaft";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Hauptstrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Schaffhausen";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Nebenstrasse";"Innerorts";1;1
+"Unfall mit Getöteten";"Schaffhausen";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Schaffhausen";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Ausserrhoden";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Hauptstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Appenzell-Innerrhoden";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Autobahn";"Ausserorts";1;1
+"Unfall mit Getöteten";"Sankt Gallen";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Hauptstrasse";"Ausserorts";2;2
+"Unfall mit Getöteten";"Sankt Gallen";"Hauptstrasse";"Innerorts";7;3
+"Unfall mit Getöteten";"Sankt Gallen";"Nebenstrasse";"Ausserorts";2;1
+"Unfall mit Getöteten";"Sankt Gallen";"Nebenstrasse";"Innerorts";2;4
+"Unfall mit Getöteten";"Sankt Gallen";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Sankt Gallen";"Andere";"Innerorts";1;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Ausserorts";5;8
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Ausserorts";2;2
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Innerorts";2;1
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Andere";"Ausserorts";1;0
+"Unfall mit Getöteten";"Graubünden / Grigioni / Grischun";"Andere";"Innerorts";1;1
+"Unfall mit Getöteten";"Aargau";"Autobahn";"Ausserorts";0;1
+"Unfall mit Getöteten";"Aargau";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Aargau";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Aargau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Aargau";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Aargau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Aargau";"Hauptstrasse";"Ausserorts";2;1
+"Unfall mit Getöteten";"Aargau";"Hauptstrasse";"Innerorts";2;3
+"Unfall mit Getöteten";"Aargau";"Nebenstrasse";"Ausserorts";3;2
+"Unfall mit Getöteten";"Aargau";"Nebenstrasse";"Innerorts";1;1
+"Unfall mit Getöteten";"Aargau";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Aargau";"Andere";"Innerorts";0;1
+"Unfall mit Getöteten";"Thurgau";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Thurgau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Hauptstrasse";"Ausserorts";3;2
+"Unfall mit Getöteten";"Thurgau";"Hauptstrasse";"Innerorts";1;5
+"Unfall mit Getöteten";"Thurgau";"Nebenstrasse";"Ausserorts";2;2
+"Unfall mit Getöteten";"Thurgau";"Nebenstrasse";"Innerorts";0;4
+"Unfall mit Getöteten";"Thurgau";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Thurgau";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Ticino";"Autobahn";"Ausserorts";2;1
+"Unfall mit Getöteten";"Ticino";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Ticino";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Ticino";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Ticino";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Ticino";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Ticino";"Hauptstrasse";"Ausserorts";4;3
+"Unfall mit Getöteten";"Ticino";"Hauptstrasse";"Innerorts";2;2
+"Unfall mit Getöteten";"Ticino";"Nebenstrasse";"Ausserorts";3;3
+"Unfall mit Getöteten";"Ticino";"Nebenstrasse";"Innerorts";5;0
+"Unfall mit Getöteten";"Ticino";"Andere";"Ausserorts";0;1
+"Unfall mit Getöteten";"Ticino";"Andere";"Innerorts";0;1
+"Unfall mit Getöteten";"Vaud";"Autobahn";"Ausserorts";6;2
+"Unfall mit Getöteten";"Vaud";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Vaud";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Vaud";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Vaud";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Vaud";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Vaud";"Hauptstrasse";"Ausserorts";12;12
+"Unfall mit Getöteten";"Vaud";"Hauptstrasse";"Innerorts";3;2
+"Unfall mit Getöteten";"Vaud";"Nebenstrasse";"Ausserorts";5;4
+"Unfall mit Getöteten";"Vaud";"Nebenstrasse";"Innerorts";3;2
+"Unfall mit Getöteten";"Vaud";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Vaud";"Andere";"Innerorts";0;2
+"Unfall mit Getöteten";"Valais / Wallis";"Autobahn";"Ausserorts";1;1
+"Unfall mit Getöteten";"Valais / Wallis";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Hauptstrasse";"Ausserorts";4;8
+"Unfall mit Getöteten";"Valais / Wallis";"Hauptstrasse";"Innerorts";0;1
+"Unfall mit Getöteten";"Valais / Wallis";"Nebenstrasse";"Ausserorts";4;2
+"Unfall mit Getöteten";"Valais / Wallis";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Valais / Wallis";"Andere";"Ausserorts";1;0
+"Unfall mit Getöteten";"Valais / Wallis";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Autobahn";"Ausserorts";1;2
+"Unfall mit Getöteten";"Neuchâtel";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Getöteten";"Neuchâtel";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Hauptstrasse";"Innerorts";1;1
+"Unfall mit Getöteten";"Neuchâtel";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Nebenstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Neuchâtel";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Neuchâtel";"Andere";"Innerorts";0;0
+"Unfall mit Getöteten";"Genève";"Autobahn";"Ausserorts";1;0
+"Unfall mit Getöteten";"Genève";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Genève";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Genève";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Genève";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Genève";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Genève";"Hauptstrasse";"Ausserorts";1;4
+"Unfall mit Getöteten";"Genève";"Hauptstrasse";"Innerorts";9;9
+"Unfall mit Getöteten";"Genève";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Genève";"Nebenstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Genève";"Andere";"Ausserorts";0;0
+"Unfall mit Getöteten";"Genève";"Andere";"Innerorts";1;1
+"Unfall mit Getöteten";"Jura";"Autobahn";"Ausserorts";0;0
+"Unfall mit Getöteten";"Jura";"Autobahn";"Innerorts";0;0
+"Unfall mit Getöteten";"Jura";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Getöteten";"Jura";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Getöteten";"Jura";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Jura";"Autostrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Jura";"Hauptstrasse";"Ausserorts";1;0
+"Unfall mit Getöteten";"Jura";"Hauptstrasse";"Innerorts";1;0
+"Unfall mit Getöteten";"Jura";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Getöteten";"Jura";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Getöteten";"Jura";"Andere";"Ausserorts";0;1
+"Unfall mit Getöteten";"Jura";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zürich";"Autobahn";"Ausserorts";17;28
+"Unfall mit Schwerverletzten";"Zürich";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zürich";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Zürich";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zürich";"Autostrasse";"Ausserorts";1;2
+"Unfall mit Schwerverletzten";"Zürich";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zürich";"Hauptstrasse";"Ausserorts";36;57
+"Unfall mit Schwerverletzten";"Zürich";"Hauptstrasse";"Innerorts";135;122
+"Unfall mit Schwerverletzten";"Zürich";"Nebenstrasse";"Ausserorts";89;86
+"Unfall mit Schwerverletzten";"Zürich";"Nebenstrasse";"Innerorts";265;257
+"Unfall mit Schwerverletzten";"Zürich";"Andere";"Ausserorts";1;2
+"Unfall mit Schwerverletzten";"Zürich";"Andere";"Innerorts";32;21
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autobahn";"Ausserorts";17;32
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autostrasse";"Ausserorts";6;3
+"Unfall mit Schwerverletzten";"Bern / Berne";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Bern / Berne";"Hauptstrasse";"Ausserorts";117;114
+"Unfall mit Schwerverletzten";"Bern / Berne";"Hauptstrasse";"Innerorts";143;171
+"Unfall mit Schwerverletzten";"Bern / Berne";"Nebenstrasse";"Ausserorts";69;58
+"Unfall mit Schwerverletzten";"Bern / Berne";"Nebenstrasse";"Innerorts";124;149
+"Unfall mit Schwerverletzten";"Bern / Berne";"Andere";"Ausserorts";9;9
+"Unfall mit Schwerverletzten";"Bern / Berne";"Andere";"Innerorts";21;17
+"Unfall mit Schwerverletzten";"Luzern";"Autobahn";"Ausserorts";6;4
+"Unfall mit Schwerverletzten";"Luzern";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Luzern";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Luzern";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Luzern";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Luzern";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Luzern";"Hauptstrasse";"Ausserorts";27;31
+"Unfall mit Schwerverletzten";"Luzern";"Hauptstrasse";"Innerorts";60;46
+"Unfall mit Schwerverletzten";"Luzern";"Nebenstrasse";"Ausserorts";44;34
+"Unfall mit Schwerverletzten";"Luzern";"Nebenstrasse";"Innerorts";72;51
+"Unfall mit Schwerverletzten";"Luzern";"Andere";"Ausserorts";1;4
+"Unfall mit Schwerverletzten";"Luzern";"Andere";"Innerorts";10;8
+"Unfall mit Schwerverletzten";"Uri";"Autobahn";"Ausserorts";3;4
+"Unfall mit Schwerverletzten";"Uri";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Uri";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Uri";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Uri";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Uri";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Uri";"Hauptstrasse";"Ausserorts";19;13
+"Unfall mit Schwerverletzten";"Uri";"Hauptstrasse";"Innerorts";5;1
+"Unfall mit Schwerverletzten";"Uri";"Nebenstrasse";"Ausserorts";6;6
+"Unfall mit Schwerverletzten";"Uri";"Nebenstrasse";"Innerorts";1;4
+"Unfall mit Schwerverletzten";"Uri";"Andere";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Uri";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schwyz";"Autobahn";"Ausserorts";4;3
+"Unfall mit Schwerverletzten";"Schwyz";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schwyz";"Autobahnnebenanlage";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Schwyz";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schwyz";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Schwyz";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schwyz";"Hauptstrasse";"Ausserorts";23;11
+"Unfall mit Schwerverletzten";"Schwyz";"Hauptstrasse";"Innerorts";15;14
+"Unfall mit Schwerverletzten";"Schwyz";"Nebenstrasse";"Ausserorts";10;9
+"Unfall mit Schwerverletzten";"Schwyz";"Nebenstrasse";"Innerorts";9;2
+"Unfall mit Schwerverletzten";"Schwyz";"Andere";"Ausserorts";1;1
+"Unfall mit Schwerverletzten";"Schwyz";"Andere";"Innerorts";2;2
+"Unfall mit Schwerverletzten";"Obwalden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Autostrasse";"Ausserorts";1;2
+"Unfall mit Schwerverletzten";"Obwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Hauptstrasse";"Ausserorts";4;5
+"Unfall mit Schwerverletzten";"Obwalden";"Hauptstrasse";"Innerorts";1;1
+"Unfall mit Schwerverletzten";"Obwalden";"Nebenstrasse";"Ausserorts";5;7
+"Unfall mit Schwerverletzten";"Obwalden";"Nebenstrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Andere";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Obwalden";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Autobahn";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Nidwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Hauptstrasse";"Ausserorts";9;8
+"Unfall mit Schwerverletzten";"Nidwalden";"Hauptstrasse";"Innerorts";7;8
+"Unfall mit Schwerverletzten";"Nidwalden";"Nebenstrasse";"Ausserorts";7;3
+"Unfall mit Schwerverletzten";"Nidwalden";"Nebenstrasse";"Innerorts";6;8
+"Unfall mit Schwerverletzten";"Nidwalden";"Andere";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Nidwalden";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Autobahn";"Ausserorts";2;2
+"Unfall mit Schwerverletzten";"Glarus";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Glarus";"Hauptstrasse";"Ausserorts";5;7
+"Unfall mit Schwerverletzten";"Glarus";"Hauptstrasse";"Innerorts";5;5
+"Unfall mit Schwerverletzten";"Glarus";"Nebenstrasse";"Ausserorts";2;1
+"Unfall mit Schwerverletzten";"Glarus";"Nebenstrasse";"Innerorts";7;3
+"Unfall mit Schwerverletzten";"Glarus";"Andere";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Glarus";"Andere";"Innerorts";0;1
+"Unfall mit Schwerverletzten";"Zug";"Autobahn";"Ausserorts";1;1
+"Unfall mit Schwerverletzten";"Zug";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zug";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Zug";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zug";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Zug";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Zug";"Hauptstrasse";"Ausserorts";6;5
+"Unfall mit Schwerverletzten";"Zug";"Hauptstrasse";"Innerorts";16;14
+"Unfall mit Schwerverletzten";"Zug";"Nebenstrasse";"Ausserorts";12;11
+"Unfall mit Schwerverletzten";"Zug";"Nebenstrasse";"Innerorts";25;24
+"Unfall mit Schwerverletzten";"Zug";"Andere";"Ausserorts";2;2
+"Unfall mit Schwerverletzten";"Zug";"Andere";"Innerorts";5;7
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autobahn";"Ausserorts";4;4
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Hauptstrasse";"Ausserorts";35;41
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Hauptstrasse";"Innerorts";37;36
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Nebenstrasse";"Ausserorts";17;17
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Nebenstrasse";"Innerorts";23;26
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Andere";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Fribourg / Freiburg";"Andere";"Innerorts";7;4
+"Unfall mit Schwerverletzten";"Solothurn";"Autobahn";"Ausserorts";2;9
+"Unfall mit Schwerverletzten";"Solothurn";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Solothurn";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Solothurn";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Solothurn";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Solothurn";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Solothurn";"Hauptstrasse";"Ausserorts";11;12
+"Unfall mit Schwerverletzten";"Solothurn";"Hauptstrasse";"Innerorts";31;28
+"Unfall mit Schwerverletzten";"Solothurn";"Nebenstrasse";"Ausserorts";13;7
+"Unfall mit Schwerverletzten";"Solothurn";"Nebenstrasse";"Innerorts";26;16
+"Unfall mit Schwerverletzten";"Solothurn";"Andere";"Ausserorts";3;2
+"Unfall mit Schwerverletzten";"Solothurn";"Andere";"Innerorts";3;1
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autobahn";"Ausserorts";4;1
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Hauptstrasse";"Innerorts";19;18
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Nebenstrasse";"Innerorts";70;75
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Andere";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Stadt";"Andere";"Innerorts";2;1
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autobahn";"Ausserorts";1;5
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autostrasse";"Ausserorts";0;2
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Hauptstrasse";"Ausserorts";7;4
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Hauptstrasse";"Innerorts";25;28
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Nebenstrasse";"Ausserorts";12;8
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Nebenstrasse";"Innerorts";20;19
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Andere";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Basel-Landschaft";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autobahn";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autostrasse";"Ausserorts";2;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Schaffhausen";"Hauptstrasse";"Ausserorts";8;3
+"Unfall mit Schwerverletzten";"Schaffhausen";"Hauptstrasse";"Innerorts";12;6
+"Unfall mit Schwerverletzten";"Schaffhausen";"Nebenstrasse";"Ausserorts";5;5
+"Unfall mit Schwerverletzten";"Schaffhausen";"Nebenstrasse";"Innerorts";22;25
+"Unfall mit Schwerverletzten";"Schaffhausen";"Andere";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Schaffhausen";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Ausserorts";5;9
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Innerorts";8;9
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Ausserorts";5;7
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Innerorts";6;1
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Andere";"Ausserorts";0;2
+"Unfall mit Schwerverletzten";"Appenzell-Ausserrhoden";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Hauptstrasse";"Ausserorts";4;2
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Hauptstrasse";"Innerorts";1;1
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Nebenstrasse";"Ausserorts";5;2
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Nebenstrasse";"Innerorts";3;1
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Andere";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Appenzell-Innerrhoden";"Andere";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autobahn";"Ausserorts";4;6
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autostrasse";"Ausserorts";2;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Hauptstrasse";"Ausserorts";37;42
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Hauptstrasse";"Innerorts";63;81
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Nebenstrasse";"Ausserorts";27;24
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Nebenstrasse";"Innerorts";58;56
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Andere";"Ausserorts";4;2
+"Unfall mit Schwerverletzten";"Sankt Gallen";"Andere";"Innerorts";11;10
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autobahn";"Ausserorts";2;1
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Ausserorts";2;1
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Ausserorts";22;36
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Innerorts";6;7
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Ausserorts";8;6
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Innerorts";15;18
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Andere";"Ausserorts";4;3
+"Unfall mit Schwerverletzten";"Graubünden / Grigioni / Grischun";"Andere";"Innerorts";1;5
+"Unfall mit Schwerverletzten";"Aargau";"Autobahn";"Ausserorts";3;6
+"Unfall mit Schwerverletzten";"Aargau";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Aargau";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Aargau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Aargau";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Aargau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Aargau";"Hauptstrasse";"Ausserorts";30;21
+"Unfall mit Schwerverletzten";"Aargau";"Hauptstrasse";"Innerorts";67;68
+"Unfall mit Schwerverletzten";"Aargau";"Nebenstrasse";"Ausserorts";36;31
+"Unfall mit Schwerverletzten";"Aargau";"Nebenstrasse";"Innerorts";67;73
+"Unfall mit Schwerverletzten";"Aargau";"Andere";"Ausserorts";15;10
+"Unfall mit Schwerverletzten";"Aargau";"Andere";"Innerorts";15;17
+"Unfall mit Schwerverletzten";"Thurgau";"Autobahn";"Ausserorts";2;1
+"Unfall mit Schwerverletzten";"Thurgau";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Thurgau";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Thurgau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Thurgau";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Thurgau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Thurgau";"Hauptstrasse";"Ausserorts";13;27
+"Unfall mit Schwerverletzten";"Thurgau";"Hauptstrasse";"Innerorts";42;58
+"Unfall mit Schwerverletzten";"Thurgau";"Nebenstrasse";"Ausserorts";32;16
+"Unfall mit Schwerverletzten";"Thurgau";"Nebenstrasse";"Innerorts";40;36
+"Unfall mit Schwerverletzten";"Thurgau";"Andere";"Ausserorts";0;3
+"Unfall mit Schwerverletzten";"Thurgau";"Andere";"Innerorts";4;7
+"Unfall mit Schwerverletzten";"Ticino";"Autobahn";"Ausserorts";6;8
+"Unfall mit Schwerverletzten";"Ticino";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Ticino";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Ticino";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Ticino";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Ticino";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Ticino";"Hauptstrasse";"Ausserorts";33;19
+"Unfall mit Schwerverletzten";"Ticino";"Hauptstrasse";"Innerorts";41;44
+"Unfall mit Schwerverletzten";"Ticino";"Nebenstrasse";"Ausserorts";17;18
+"Unfall mit Schwerverletzten";"Ticino";"Nebenstrasse";"Innerorts";50;60
+"Unfall mit Schwerverletzten";"Ticino";"Andere";"Ausserorts";4;0
+"Unfall mit Schwerverletzten";"Ticino";"Andere";"Innerorts";7;5
+"Unfall mit Schwerverletzten";"Vaud";"Autobahn";"Ausserorts";19;34
+"Unfall mit Schwerverletzten";"Vaud";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Vaud";"Autobahnnebenanlage";"Ausserorts";2;1
+"Unfall mit Schwerverletzten";"Vaud";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Vaud";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Schwerverletzten";"Vaud";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Vaud";"Hauptstrasse";"Ausserorts";95;107
+"Unfall mit Schwerverletzten";"Vaud";"Hauptstrasse";"Innerorts";51;60
+"Unfall mit Schwerverletzten";"Vaud";"Nebenstrasse";"Ausserorts";33;45
+"Unfall mit Schwerverletzten";"Vaud";"Nebenstrasse";"Innerorts";71;70
+"Unfall mit Schwerverletzten";"Vaud";"Andere";"Ausserorts";4;4
+"Unfall mit Schwerverletzten";"Vaud";"Andere";"Innerorts";12;5
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autobahn";"Ausserorts";4;7
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Hauptstrasse";"Ausserorts";40;39
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Hauptstrasse";"Innerorts";25;24
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Nebenstrasse";"Ausserorts";33;26
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Nebenstrasse";"Innerorts";45;30
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Andere";"Ausserorts";12;4
+"Unfall mit Schwerverletzten";"Valais / Wallis";"Andere";"Innerorts";5;4
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autobahn";"Ausserorts";1;4
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Neuchâtel";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Neuchâtel";"Hauptstrasse";"Ausserorts";8;27
+"Unfall mit Schwerverletzten";"Neuchâtel";"Hauptstrasse";"Innerorts";11;17
+"Unfall mit Schwerverletzten";"Neuchâtel";"Nebenstrasse";"Ausserorts";7;1
+"Unfall mit Schwerverletzten";"Neuchâtel";"Nebenstrasse";"Innerorts";9;10
+"Unfall mit Schwerverletzten";"Neuchâtel";"Andere";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Neuchâtel";"Andere";"Innerorts";2;2
+"Unfall mit Schwerverletzten";"Genève";"Autobahn";"Ausserorts";5;4
+"Unfall mit Schwerverletzten";"Genève";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Genève";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Genève";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Genève";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Genève";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Genève";"Hauptstrasse";"Ausserorts";52;47
+"Unfall mit Schwerverletzten";"Genève";"Hauptstrasse";"Innerorts";185;215
+"Unfall mit Schwerverletzten";"Genève";"Nebenstrasse";"Ausserorts";7;4
+"Unfall mit Schwerverletzten";"Genève";"Nebenstrasse";"Innerorts";47;87
+"Unfall mit Schwerverletzten";"Genève";"Andere";"Ausserorts";1;1
+"Unfall mit Schwerverletzten";"Genève";"Andere";"Innerorts";14;19
+"Unfall mit Schwerverletzten";"Jura";"Autobahn";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Jura";"Autobahn";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Jura";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Schwerverletzten";"Jura";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Jura";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Schwerverletzten";"Jura";"Autostrasse";"Innerorts";0;0
+"Unfall mit Schwerverletzten";"Jura";"Hauptstrasse";"Ausserorts";13;16
+"Unfall mit Schwerverletzten";"Jura";"Hauptstrasse";"Innerorts";10;7
+"Unfall mit Schwerverletzten";"Jura";"Nebenstrasse";"Ausserorts";4;8
+"Unfall mit Schwerverletzten";"Jura";"Nebenstrasse";"Innerorts";7;9
+"Unfall mit Schwerverletzten";"Jura";"Andere";"Ausserorts";1;1
+"Unfall mit Schwerverletzten";"Jura";"Andere";"Innerorts";1;1
+"Unfall mit Leichtverletzten";"Zürich";"Autobahn";"Ausserorts";199;236
+"Unfall mit Leichtverletzten";"Zürich";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zürich";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Zürich";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zürich";"Autostrasse";"Ausserorts";14;6
+"Unfall mit Leichtverletzten";"Zürich";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zürich";"Hauptstrasse";"Ausserorts";137;163
+"Unfall mit Leichtverletzten";"Zürich";"Hauptstrasse";"Innerorts";793;721
+"Unfall mit Leichtverletzten";"Zürich";"Nebenstrasse";"Ausserorts";227;178
+"Unfall mit Leichtverletzten";"Zürich";"Nebenstrasse";"Innerorts";1412;1334
+"Unfall mit Leichtverletzten";"Zürich";"Andere";"Ausserorts";6;9
+"Unfall mit Leichtverletzten";"Zürich";"Andere";"Innerorts";93;90
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autobahn";"Ausserorts";166;196
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autobahnnebenanlage";"Ausserorts";1;0
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autostrasse";"Ausserorts";15;27
+"Unfall mit Leichtverletzten";"Bern / Berne";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Bern / Berne";"Hauptstrasse";"Ausserorts";319;285
+"Unfall mit Leichtverletzten";"Bern / Berne";"Hauptstrasse";"Innerorts";794;819
+"Unfall mit Leichtverletzten";"Bern / Berne";"Nebenstrasse";"Ausserorts";118;112
+"Unfall mit Leichtverletzten";"Bern / Berne";"Nebenstrasse";"Innerorts";375;401
+"Unfall mit Leichtverletzten";"Bern / Berne";"Andere";"Ausserorts";15;12
+"Unfall mit Leichtverletzten";"Bern / Berne";"Andere";"Innerorts";47;59
+"Unfall mit Leichtverletzten";"Luzern";"Autobahn";"Ausserorts";70;95
+"Unfall mit Leichtverletzten";"Luzern";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Luzern";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Luzern";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Luzern";"Autostrasse";"Ausserorts";2;0
+"Unfall mit Leichtverletzten";"Luzern";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Luzern";"Hauptstrasse";"Ausserorts";101;87
+"Unfall mit Leichtverletzten";"Luzern";"Hauptstrasse";"Innerorts";257;288
+"Unfall mit Leichtverletzten";"Luzern";"Nebenstrasse";"Ausserorts";69;67
+"Unfall mit Leichtverletzten";"Luzern";"Nebenstrasse";"Innerorts";194;201
+"Unfall mit Leichtverletzten";"Luzern";"Andere";"Ausserorts";4;5
+"Unfall mit Leichtverletzten";"Luzern";"Andere";"Innerorts";27;30
+"Unfall mit Leichtverletzten";"Uri";"Autobahn";"Ausserorts";7;10
+"Unfall mit Leichtverletzten";"Uri";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Uri";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Uri";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Uri";"Autostrasse";"Ausserorts";2;0
+"Unfall mit Leichtverletzten";"Uri";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Uri";"Hauptstrasse";"Ausserorts";36;33
+"Unfall mit Leichtverletzten";"Uri";"Hauptstrasse";"Innerorts";20;20
+"Unfall mit Leichtverletzten";"Uri";"Nebenstrasse";"Ausserorts";11;6
+"Unfall mit Leichtverletzten";"Uri";"Nebenstrasse";"Innerorts";10;15
+"Unfall mit Leichtverletzten";"Uri";"Andere";"Ausserorts";1;3
+"Unfall mit Leichtverletzten";"Uri";"Andere";"Innerorts";3;1
+"Unfall mit Leichtverletzten";"Schwyz";"Autobahn";"Ausserorts";12;17
+"Unfall mit Leichtverletzten";"Schwyz";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schwyz";"Autobahnnebenanlage";"Ausserorts";1;0
+"Unfall mit Leichtverletzten";"Schwyz";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schwyz";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Schwyz";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schwyz";"Hauptstrasse";"Ausserorts";61;51
+"Unfall mit Leichtverletzten";"Schwyz";"Hauptstrasse";"Innerorts";111;80
+"Unfall mit Leichtverletzten";"Schwyz";"Nebenstrasse";"Ausserorts";27;24
+"Unfall mit Leichtverletzten";"Schwyz";"Nebenstrasse";"Innerorts";30;34
+"Unfall mit Leichtverletzten";"Schwyz";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Schwyz";"Andere";"Innerorts";6;3
+"Unfall mit Leichtverletzten";"Obwalden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Obwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Obwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Obwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Obwalden";"Autostrasse";"Ausserorts";15;3
+"Unfall mit Leichtverletzten";"Obwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Obwalden";"Hauptstrasse";"Ausserorts";15;12
+"Unfall mit Leichtverletzten";"Obwalden";"Hauptstrasse";"Innerorts";15;26
+"Unfall mit Leichtverletzten";"Obwalden";"Nebenstrasse";"Ausserorts";12;21
+"Unfall mit Leichtverletzten";"Obwalden";"Nebenstrasse";"Innerorts";5;12
+"Unfall mit Leichtverletzten";"Obwalden";"Andere";"Ausserorts";1;1
+"Unfall mit Leichtverletzten";"Obwalden";"Andere";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Autobahn";"Ausserorts";10;9
+"Unfall mit Leichtverletzten";"Nidwalden";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Autostrasse";"Ausserorts";1;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Hauptstrasse";"Ausserorts";19;11
+"Unfall mit Leichtverletzten";"Nidwalden";"Hauptstrasse";"Innerorts";17;17
+"Unfall mit Leichtverletzten";"Nidwalden";"Nebenstrasse";"Ausserorts";4;10
+"Unfall mit Leichtverletzten";"Nidwalden";"Nebenstrasse";"Innerorts";7;7
+"Unfall mit Leichtverletzten";"Nidwalden";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Nidwalden";"Andere";"Innerorts";0;1
+"Unfall mit Leichtverletzten";"Glarus";"Autobahn";"Ausserorts";4;9
+"Unfall mit Leichtverletzten";"Glarus";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Glarus";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Glarus";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Glarus";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Glarus";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Glarus";"Hauptstrasse";"Ausserorts";19;10
+"Unfall mit Leichtverletzten";"Glarus";"Hauptstrasse";"Innerorts";20;19
+"Unfall mit Leichtverletzten";"Glarus";"Nebenstrasse";"Ausserorts";8;8
+"Unfall mit Leichtverletzten";"Glarus";"Nebenstrasse";"Innerorts";19;19
+"Unfall mit Leichtverletzten";"Glarus";"Andere";"Ausserorts";1;1
+"Unfall mit Leichtverletzten";"Glarus";"Andere";"Innerorts";1;1
+"Unfall mit Leichtverletzten";"Zug";"Autobahn";"Ausserorts";16;15
+"Unfall mit Leichtverletzten";"Zug";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zug";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Zug";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zug";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Zug";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Zug";"Hauptstrasse";"Ausserorts";18;28
+"Unfall mit Leichtverletzten";"Zug";"Hauptstrasse";"Innerorts";56;46
+"Unfall mit Leichtverletzten";"Zug";"Nebenstrasse";"Ausserorts";18;25
+"Unfall mit Leichtverletzten";"Zug";"Nebenstrasse";"Innerorts";57;49
+"Unfall mit Leichtverletzten";"Zug";"Andere";"Ausserorts";2;3
+"Unfall mit Leichtverletzten";"Zug";"Andere";"Innerorts";10;13
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autobahn";"Ausserorts";22;44
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autostrasse";"Ausserorts";4;2
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Hauptstrasse";"Ausserorts";121;112
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Hauptstrasse";"Innerorts";131;166
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Nebenstrasse";"Ausserorts";28;26
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Nebenstrasse";"Innerorts";63;66
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Andere";"Ausserorts";1;1
+"Unfall mit Leichtverletzten";"Fribourg / Freiburg";"Andere";"Innerorts";10;18
+"Unfall mit Leichtverletzten";"Solothurn";"Autobahn";"Ausserorts";49;86
+"Unfall mit Leichtverletzten";"Solothurn";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Solothurn";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Solothurn";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Solothurn";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Solothurn";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Solothurn";"Hauptstrasse";"Ausserorts";57;72
+"Unfall mit Leichtverletzten";"Solothurn";"Hauptstrasse";"Innerorts";204;201
+"Unfall mit Leichtverletzten";"Solothurn";"Nebenstrasse";"Ausserorts";26;33
+"Unfall mit Leichtverletzten";"Solothurn";"Nebenstrasse";"Innerorts";88;117
+"Unfall mit Leichtverletzten";"Solothurn";"Andere";"Ausserorts";1;1
+"Unfall mit Leichtverletzten";"Solothurn";"Andere";"Innerorts";12;9
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autobahn";"Ausserorts";13;28
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Hauptstrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Hauptstrasse";"Innerorts";47;39
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Nebenstrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Nebenstrasse";"Innerorts";151;136
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Stadt";"Andere";"Innerorts";6;2
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autobahn";"Ausserorts";63;41
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autostrasse";"Ausserorts";4;6
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Hauptstrasse";"Ausserorts";40;44
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Hauptstrasse";"Innerorts";129;137
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Nebenstrasse";"Ausserorts";30;29
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Nebenstrasse";"Innerorts";96;108
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Basel-Landschaft";"Andere";"Innerorts";5;13
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autobahn";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autostrasse";"Ausserorts";5;6
+"Unfall mit Leichtverletzten";"Schaffhausen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Hauptstrasse";"Ausserorts";15;17
+"Unfall mit Leichtverletzten";"Schaffhausen";"Hauptstrasse";"Innerorts";52;51
+"Unfall mit Leichtverletzten";"Schaffhausen";"Nebenstrasse";"Ausserorts";9;8
+"Unfall mit Leichtverletzten";"Schaffhausen";"Nebenstrasse";"Innerorts";58;42
+"Unfall mit Leichtverletzten";"Schaffhausen";"Andere";"Ausserorts";1;0
+"Unfall mit Leichtverletzten";"Schaffhausen";"Andere";"Innerorts";1;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Ausserorts";21;21
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Hauptstrasse";"Innerorts";24;23
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Ausserorts";23;11
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Nebenstrasse";"Innerorts";11;9
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Ausserrhoden";"Andere";"Innerorts";1;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autobahn";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autostrasse";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Hauptstrasse";"Ausserorts";6;5
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Hauptstrasse";"Innerorts";4;5
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Nebenstrasse";"Ausserorts";4;3
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Nebenstrasse";"Innerorts";4;3
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Appenzell-Innerrhoden";"Andere";"Innerorts";0;2
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autobahn";"Ausserorts";68;89
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autobahnnebenanlage";"Ausserorts";1;1
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autostrasse";"Ausserorts";6;13
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Hauptstrasse";"Ausserorts";119;119
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Hauptstrasse";"Innerorts";295;251
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Nebenstrasse";"Ausserorts";57;56
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Nebenstrasse";"Innerorts";168;161
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Andere";"Ausserorts";4;2
+"Unfall mit Leichtverletzten";"Sankt Gallen";"Andere";"Innerorts";13;12
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autobahn";"Ausserorts";15;17
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Ausserorts";13;17
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Ausserorts";114;131
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Hauptstrasse";"Innerorts";63;81
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Ausserorts";49;39
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Nebenstrasse";"Innerorts";68;68
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Andere";"Ausserorts";2;9
+"Unfall mit Leichtverletzten";"Graubünden / Grigioni / Grischun";"Andere";"Innerorts";11;10
+"Unfall mit Leichtverletzten";"Aargau";"Autobahn";"Ausserorts";79;75
+"Unfall mit Leichtverletzten";"Aargau";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Aargau";"Autobahnnebenanlage";"Ausserorts";2;1
+"Unfall mit Leichtverletzten";"Aargau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Aargau";"Autostrasse";"Ausserorts";2;1
+"Unfall mit Leichtverletzten";"Aargau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Aargau";"Hauptstrasse";"Ausserorts";135;153
+"Unfall mit Leichtverletzten";"Aargau";"Hauptstrasse";"Innerorts";274;269
+"Unfall mit Leichtverletzten";"Aargau";"Nebenstrasse";"Ausserorts";82;87
+"Unfall mit Leichtverletzten";"Aargau";"Nebenstrasse";"Innerorts";206;180
+"Unfall mit Leichtverletzten";"Aargau";"Andere";"Ausserorts";20;13
+"Unfall mit Leichtverletzten";"Aargau";"Andere";"Innerorts";33;37
+"Unfall mit Leichtverletzten";"Thurgau";"Autobahn";"Ausserorts";10;9
+"Unfall mit Leichtverletzten";"Thurgau";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Thurgau";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Thurgau";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Thurgau";"Autostrasse";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Thurgau";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Thurgau";"Hauptstrasse";"Ausserorts";57;55
+"Unfall mit Leichtverletzten";"Thurgau";"Hauptstrasse";"Innerorts";167;139
+"Unfall mit Leichtverletzten";"Thurgau";"Nebenstrasse";"Ausserorts";34;45
+"Unfall mit Leichtverletzten";"Thurgau";"Nebenstrasse";"Innerorts";119;97
+"Unfall mit Leichtverletzten";"Thurgau";"Andere";"Ausserorts";3;2
+"Unfall mit Leichtverletzten";"Thurgau";"Andere";"Innerorts";9;8
+"Unfall mit Leichtverletzten";"Ticino";"Autobahn";"Ausserorts";37;39
+"Unfall mit Leichtverletzten";"Ticino";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Ticino";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Ticino";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Ticino";"Autostrasse";"Ausserorts";5;8
+"Unfall mit Leichtverletzten";"Ticino";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Ticino";"Hauptstrasse";"Ausserorts";79;67
+"Unfall mit Leichtverletzten";"Ticino";"Hauptstrasse";"Innerorts";111;168
+"Unfall mit Leichtverletzten";"Ticino";"Nebenstrasse";"Ausserorts";22;23
+"Unfall mit Leichtverletzten";"Ticino";"Nebenstrasse";"Innerorts";150;180
+"Unfall mit Leichtverletzten";"Ticino";"Andere";"Ausserorts";3;3
+"Unfall mit Leichtverletzten";"Ticino";"Andere";"Innerorts";13;15
+"Unfall mit Leichtverletzten";"Vaud";"Autobahn";"Ausserorts";180;161
+"Unfall mit Leichtverletzten";"Vaud";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Vaud";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Vaud";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Vaud";"Autostrasse";"Ausserorts";3;1
+"Unfall mit Leichtverletzten";"Vaud";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Vaud";"Hauptstrasse";"Ausserorts";264;288
+"Unfall mit Leichtverletzten";"Vaud";"Hauptstrasse";"Innerorts";328;328
+"Unfall mit Leichtverletzten";"Vaud";"Nebenstrasse";"Ausserorts";89;106
+"Unfall mit Leichtverletzten";"Vaud";"Nebenstrasse";"Innerorts";322;380
+"Unfall mit Leichtverletzten";"Vaud";"Andere";"Ausserorts";5;12
+"Unfall mit Leichtverletzten";"Vaud";"Andere";"Innerorts";55;50
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autobahn";"Ausserorts";17;36
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autobahnnebenanlage";"Ausserorts";0;1
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autostrasse";"Ausserorts";1;2
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Hauptstrasse";"Ausserorts";80;112
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Hauptstrasse";"Innerorts";82;96
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Nebenstrasse";"Ausserorts";68;74
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Nebenstrasse";"Innerorts";89;110
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Andere";"Ausserorts";6;9
+"Unfall mit Leichtverletzten";"Valais / Wallis";"Andere";"Innerorts";14;15
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autobahn";"Ausserorts";23;43
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autostrasse";"Ausserorts";4;6
+"Unfall mit Leichtverletzten";"Neuchâtel";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Neuchâtel";"Hauptstrasse";"Ausserorts";49;79
+"Unfall mit Leichtverletzten";"Neuchâtel";"Hauptstrasse";"Innerorts";91;100
+"Unfall mit Leichtverletzten";"Neuchâtel";"Nebenstrasse";"Ausserorts";4;6
+"Unfall mit Leichtverletzten";"Neuchâtel";"Nebenstrasse";"Innerorts";42;61
+"Unfall mit Leichtverletzten";"Neuchâtel";"Andere";"Ausserorts";1;0
+"Unfall mit Leichtverletzten";"Neuchâtel";"Andere";"Innerorts";8;7
+"Unfall mit Leichtverletzten";"Genève";"Autobahn";"Ausserorts";18;15
+"Unfall mit Leichtverletzten";"Genève";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Genève";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Genève";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Genève";"Autostrasse";"Ausserorts";0;2
+"Unfall mit Leichtverletzten";"Genève";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Genève";"Hauptstrasse";"Ausserorts";84;102
+"Unfall mit Leichtverletzten";"Genève";"Hauptstrasse";"Innerorts";362;440
+"Unfall mit Leichtverletzten";"Genève";"Nebenstrasse";"Ausserorts";9;14
+"Unfall mit Leichtverletzten";"Genève";"Nebenstrasse";"Innerorts";111;138
+"Unfall mit Leichtverletzten";"Genève";"Andere";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Genève";"Andere";"Innerorts";11;31
+"Unfall mit Leichtverletzten";"Jura";"Autobahn";"Ausserorts";6;4
+"Unfall mit Leichtverletzten";"Jura";"Autobahn";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Jura";"Autobahnnebenanlage";"Ausserorts";0;0
+"Unfall mit Leichtverletzten";"Jura";"Autobahnnebenanlage";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Jura";"Autostrasse";"Ausserorts";3;3
+"Unfall mit Leichtverletzten";"Jura";"Autostrasse";"Innerorts";0;0
+"Unfall mit Leichtverletzten";"Jura";"Hauptstrasse";"Ausserorts";30;32
+"Unfall mit Leichtverletzten";"Jura";"Hauptstrasse";"Innerorts";41;35
+"Unfall mit Leichtverletzten";"Jura";"Nebenstrasse";"Ausserorts";7;8
+"Unfall mit Leichtverletzten";"Jura";"Nebenstrasse";"Innerorts";19;22
+"Unfall mit Leichtverletzten";"Jura";"Andere";"Ausserorts";2;3
+"Unfall mit Leichtverletzten";"Jura";"Andere";"Innerorts";5;4

@@ -12,7 +12,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__,external_stylesheets=external_stylesheets,)
 
 #load data
-unf_df = pd.read_csv('unfall-strassenlaenge/Unfall_nach_Kanton.csv', encoding='unicode_escape', delimiter=';')
+unf_df = pd.read_csv('Training_projects/Unfall_statistik/Unfall_nach_Kanton.csv', encoding='unicode_escape', delimiter=';')
 
 
 #-----------------------------------------------
@@ -49,13 +49,14 @@ app.layout = html.Div(children=[
     #text unnter Grafik
     html.Div(children=[
     html.H6(children='Total Verunfallte:'),
-    html.H6(id='Unfallzahl'),
+    html.H5(id='Unfallzahl'),
     html.H6(children='Verunfallte Nach Kanton:'),
     dbc.Table(id='Zahl_nach_Kanton')
     ], style={'display': 'flex', 'justify-content': 'space-between'})
     
     ],style={'width': '70%','height':'50%', 'display': 'inline-block', 'vertical-align': 'top'}
     ),
+   
     
 ])
 
@@ -100,6 +101,8 @@ def update_text(Kanton, Yahr):
     dfff = pd.DataFrame.from_dict([anz]).melt(var_name='Anzahl', value_name='Kanton')
     table = dbc.Table.from_dataframe(dfff, striped=True, bordered=True, hover=True)
     return table
+
+
 
 
 

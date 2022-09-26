@@ -4,12 +4,15 @@ import pandas as pd
 import plotly.express as px
 
 #load external data----------------------------------------------------
+
+#external Stylesheet
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 
 #load and transform data
 df = pd.read_csv('Training_projects/Tutorials/dash/Unfall_nach_Kanton.csv', encoding='unicode_escape', delimiter=';')
 df = df.melt(id_vars=['Unfallschwere', 'Kanton', 'Strassenart', 'Unfallort'], var_name='Year', value_name='Amount')
+#create DF for use in line chart
 line_df = pd.DataFrame(df.groupby(['Year'])['Amount'].sum())
 line_df.reset_index(inplace=True)
 line_df['Year'] = pd.to_numeric(line_df['Year'])

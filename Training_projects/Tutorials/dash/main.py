@@ -83,6 +83,7 @@ app.layout = html.Div(children=[
 @app.callback(Output('accidents_graphic','figure'),
               Input('year_selector','value'))
 
+## Create an update linechart showing total accidents in CH within a selected range
 def update_figure(year_range):
     updated_df = line_df[line_df['Year'].between(year_range[0],year_range[-1])]
     fig = px.line(updated_df, x='Year', y='Amount')
@@ -93,6 +94,7 @@ def update_figure(year_range):
 @app.callback(Output('delta_percent','children'),
               Input('year_selector','value'))
 
+## Create delta percent vartiable and display as KPI in App
 def update_delta(year_range):
     start_total = line_df[line_df['Year'] == int(year_range[0])]['Amount'].values[0]
     end_total = line_df[line_df['Year'] == int(year_range[-1])]['Amount'].values[0]
@@ -103,6 +105,7 @@ def update_delta(year_range):
 @app.callback(Output('delta_by_accident_type','children'),
               Input('year_selector','value'))
 
+## Create delta percent by accident type vartiable and display as KPI in App
 def update_delta_acc_type(year_range):
     acc_df = pd.DataFrame(df.groupby(['Unfallschwere','Year'])['Amount'].sum())
     acc_df.reset_index(inplace=True)
@@ -115,6 +118,7 @@ def update_delta_acc_type(year_range):
 @app.callback(Output('delta_dy_road_type','children'),
               Input('year_selector','value'))
 
+## Create most accidents by road type and display as KPI in App
 def update_delta_acc_type(year_range):
     road_df = pd.DataFrame(df.groupby(['Strassenart','Year'])['Amount'].sum())
     road_df.reset_index(inplace=True)

@@ -1,7 +1,10 @@
 
 from dash import dcc, html, Dash, Input, Output
 import pandas as pd
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 import plotly.express as px
+import re
 
 #load external data----------------------------------------------------
 
@@ -12,10 +15,16 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 #load and transform data
 df = pd.read_csv('Training_projects/Tutorials/dash/Unfall_nach_Kanton.csv', encoding='unicode_escape', delimiter=';')
 df = df.melt(id_vars=['Unfallschwere', 'Kanton', 'Strassenart', 'Unfallort'], var_name='Year', value_name='Amount')
+df['Year'] = pd.to_numeric(df['Year'])
 #create DF for use in line chart
 line_df = pd.DataFrame(df.groupby(['Year'])['Amount'].sum())
 line_df.reset_index(inplace=True)
 line_df['Year'] = pd.to_numeric(line_df['Year'])
+
+def use_regex(input_text):
+    pattern = re.compile(r"[a-zA-ZäüöÄÜÖèéàâ]+", re.IGNORECASE)
+    found = pattern.search(input_text)
+    return found.group()
 
 
 #initialize app
@@ -76,7 +85,20 @@ app.layout = html.Div(children=[
                                                  'display': 'inline-block', 
                                                  'vertical-align': 'top'}  
                                         )
-                                ])
+                                ]),
+                html.Div(children = [
+                dcc.Dropdown(
+                    options={str(canton): str(canton) for canton in df['Kanton'].unique()},
+                    value='Zürich',
+                    id='canton_selection'
+                            ),
+                dcc.RangeSlider(int(line_df['Year'].min()), int(line_df['Year'].max()), 
+                                                marks={str(year): str(year) for year in line_df['Year'].unique()},
+                                                value=[int(line_df['Year'].max())],  
+                                                id='singe_year_selector', 
+                                                ),
+                dcc.Graph(id='bottom') 
+                ]),
                 ])
 
                                    
@@ -131,6 +153,49 @@ def update_delta_acc_type(year_range):
     road_type = road_df_update[road_df_update['Amount'] == road_df_update['Amount'].max()]['Strassenart'].values[0]
     max_year = road_df_update[road_df_update['Amount'] == road_df_update['Amount'].max()]['Year'].values[0]
     return f'Most accidents happend on {road_type} with {max_acc_road} accidents in {max_year}.'
+
+@app.callback(Output('bottom','figure'),
+            Input('singe_year_selector','value'), 
+            Input('canton_selection','value'),
+            Input('year_selector','value'))
+
+def update_bottom_half(selected_year, canton, year_range):
+
+    #select only year and canton from df
+    up_df = df[(df['Year'] == selected_year[0]) & (df['Kanton'] == canton)]
+
+
+    #create subplots to display bottom half of app
+    fig = make_subplots(rows=1, cols = 3, 
+                        specs=[[{'type':'bar'},{'type':'pie'},{'type':'scatter'}]],
+                        subplot_titles=('Amount of Accidents by Road Type', 'Percentage by accident severity', 'Total in selected range')
+                        )
+    
+    
+    #create barchart showing only selected year and canton
+    bar1 = px.bar(up_df, x='Strassenart',y='Amount', barmode='group')
+    for trace in bar1.data:
+        fig.append_trace(trace, row=1, col=1)
+
+    pie1 = px.pie(up_df, values='Amount', names='Unfallschwere')
+    for trace in pie1.data:
+        fig.add_trace(trace, row=1, col=2)
+
+
+    
+    dff = df[(df['Kanton'] == canton) & (df['Year'].between(year_range[0],year_range[-1]))]
+    up_line_df = pd.DataFrame(dff.groupby(['Year'])['Amount'].sum())
+    up_line_df.reset_index(inplace=True)
+    up_line_df['Year'] = pd.to_numeric(up_line_df['Year'])
+        
+    line1 = px.line(up_line_df, x='Year', y='Amount')
+    for trace in line1.data:
+        fig.add_trace(trace, row=1, col=3)
+    
+
+    fig.update_layout(showlegend=False)
+
+    return fig
 
 #Run app---------------------------------------------
 

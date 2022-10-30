@@ -4,7 +4,6 @@ import pandas as pd
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import plotly.express as px
-import re
 
 #load external data----------------------------------------------------
 
@@ -20,11 +19,6 @@ df['Year'] = pd.to_numeric(df['Year'])
 line_df = pd.DataFrame(df.groupby(['Year'])['Amount'].sum())
 line_df.reset_index(inplace=True)
 line_df['Year'] = pd.to_numeric(line_df['Year'])
-
-def use_regex(input_text):
-    pattern = re.compile(r"[a-zA-ZäüöÄÜÖèéàâ]+", re.IGNORECASE)
-    found = pattern.search(input_text)
-    return found.group()
 
 
 #initialize app
@@ -53,9 +47,10 @@ app.layout = html.Div(children=[
 
                                             #Year range selector
                                             dcc.RangeSlider(int(line_df['Year'].min()), int(line_df['Year'].max()), 
-                                                            marks={str(year): str(year) for year in line_df['Year'].unique()},
+                                                            marks={str(year): str(year)[-2:] for year in line_df['Year'].unique()},
                                                             value=[int(line_df['Year'].min())+10,int(line_df['Year'].max())-10],  
-                                                            id='year_selector', 
+                                                            id='year_selector'
+                                                            
                                                             ),
                                                                                             
                                             #graph to be displayed                                               
@@ -86,12 +81,18 @@ app.layout = html.Div(children=[
                                                  'vertical-align': 'top'}  
                                         )
                                 ]),
+
+                #Bottom part of the layout
                 html.Div(children = [
+                #create dropdown for canton selection
                 dcc.Dropdown(
-                    options={str(canton): str(canton) for canton in df['Kanton'].unique()},
-                    value='Zürich',
+                    #create dict of values
+                    options=sorted({str(canton): str(canton) for canton in df['Kanton'].unique()}),
+                    #select first element as default value
+                    value=list(sorted({str(canton): str(canton) for canton in df['Kanton'].unique()}))[0],
                     id='canton_selection'
                             ),
+                #create single value range selector 
                 dcc.RangeSlider(int(line_df['Year'].min()), int(line_df['Year'].max()), 
                                                 marks={str(year): str(year) for year in line_df['Year'].unique()},
                                                 value=[int(line_df['Year'].max())],  
@@ -154,12 +155,15 @@ def update_delta_acc_type(year_range):
     max_year = road_df_update[road_df_update['Amount'] == road_df_update['Amount'].max()]['Year'].values[0]
     return f'Most accidents happend on {road_type} with {max_acc_road} accidents in {max_year}.'
 
+
+#bottom half of app in a single figure
 @app.callback(Output('bottom','figure'),
             Input('singe_year_selector','value'), 
             Input('canton_selection','value'),
-            Input('year_selector','value'))
+            )
 
-def update_bottom_half(selected_year, canton, year_range):
+
+def update_bottom_half(selected_year, canton):
 
     #select only year and canton from df
     up_df = df[(df['Year'] == selected_year[0]) & (df['Kanton'] == canton)]
@@ -168,31 +172,40 @@ def update_bottom_half(selected_year, canton, year_range):
     #create subplots to display bottom half of app
     fig = make_subplots(rows=1, cols = 3, 
                         specs=[[{'type':'bar'},{'type':'pie'},{'type':'scatter'}]],
-                        subplot_titles=('Amount of Accidents by Road Type', 'Percentage by accident severity', 'Total in selected range')
+                        subplot_titles=('Amount of Accidents by Road Type', 'Percentage by accident severity', 'Total from start to selection')
                         )
     
     
     #create barchart showing only selected year and canton
-    bar1 = px.bar(up_df, x='Strassenart',y='Amount', barmode='group')
-    for trace in bar1.data:
-        fig.append_trace(trace, row=1, col=1)
+    bar1 = px.bar(up_df, x='Strassenart',y='Amount', barmode='stack')
 
+    #add traces to subplots
+    for trace in bar1.data:
+        fig.add_trace(trace, row=1, col=1)
+
+    fig.update_xaxes(categoryorder='category ascending')
+
+    #create pie chart to display accident severity
     pie1 = px.pie(up_df, values='Amount', names='Unfallschwere')
+
+    #add traces to subplots
     for trace in pie1.data:
         fig.add_trace(trace, row=1, col=2)
 
 
-    
-    dff = df[(df['Kanton'] == canton) & (df['Year'].between(year_range[0],year_range[-1]))]
-    up_line_df = pd.DataFrame(dff.groupby(['Year'])['Amount'].sum())
+    #select data needed to show 
+    dff = df[(df['Kanton'] == canton) & (df['Year'].between(df['Year'].min(),selected_year[0]))]
+    up_line_df = pd.DataFrame(dff.groupby(['Year','Strassenart'])['Amount'].sum())
     up_line_df.reset_index(inplace=True)
     up_line_df['Year'] = pd.to_numeric(up_line_df['Year'])
         
-    line1 = px.line(up_line_df, x='Year', y='Amount')
+    #create line plot 
+    line1 = px.line(up_line_df, x='Year', y='Amount', color='Strassenart')
+    #add traces to subplots
     for trace in line1.data:
         fig.add_trace(trace, row=1, col=3)
     
-
+    #update layout to exclude legend
     fig.update_layout(showlegend=False)
 
     return fig
